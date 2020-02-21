@@ -1,2 +1,3 @@
 # xcript
 
+new script void 
